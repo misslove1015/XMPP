@@ -1,6 +1,6 @@
 # XMPP
 
-使用XMPPFramework实现登录注册和简单的聊天
+使用XMPPFramework实现登录注册和简单的即时聊天聊天
 
 ![](https://raw.githubusercontent.com/misslove1015/DemoPictures/master/XMPPChat.png)
 
