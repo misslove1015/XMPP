@@ -1,0 +1,6 @@
+target "XMPP" do
+platform :ios, "8.0"
+use_frameworks!
+pod "XMPPFramework", "~>3.7.0"
+end
+
